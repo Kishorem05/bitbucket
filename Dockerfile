@@ -1,4 +1,4 @@
-FROM adoptopenjdk/openjdk8:alpine
+FROM adoptopenjdk/openjdk8:alpine-testing
 MAINTAINER Steffen Bleul <sbl@blacklabelops.com>
 
 ARG BITBUCKET_VERSION=6.8.2
